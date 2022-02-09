@@ -6,6 +6,8 @@ This course aims to teach the basic syntax of Julia and its core features. I hig
 
 > This course can be followed for free. You will just lose the opportunity to receive a final certification.
 
+You can find all the weekly notes under the [Notes](Notes) folder and the code under the [JuliaFiles](JuliaFiles) folder.
+
 ---
 
 <p align="center">
@@ -13,8 +15,6 @@ This course aims to teach the basic syntax of Julia and its core features. I hig
 </p>
 
 ----
-
-Here I will append all my notes that you can find in [Notes](Notes). The complete code for each week can be found in [JuliaFiles](JuliaFiles)
 
 #### Table of contents
 
