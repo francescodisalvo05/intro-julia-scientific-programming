@@ -18,15 +18,15 @@ Here I will append all my notes that you can find in [Notes](Notes). The complet
 
 #### Table of contents
 
-- [Week 01](w1)
-  - [Why Julia is so special](w1_why)
-  - [REPL](why_repl)
-  - [Logical expression](w1_logical_expression)
-  - [Type systems](w1_type_systems)
-  - [Functions](w1_functions)
-- [Week 02](w2)
-  - [Managing CSV files](w2_csv)
-  - [Plots](w2_plots)
+- [Week 01](#w1)
+  - [Why Julia is so special](#w1_why)
+  - [REPL](#w1_repl)
+  - [Logical expression](#w1_logical_expression)
+  - [Type systems](#w1_type_systems)
+  - [Functions](#w1_functions)
+- [Week 02](#w2)
+  - [Managing CSV files](#w2_csv)
+  - [Plots](#w2_plots)
   
 ----
 
