@@ -6,6 +6,12 @@ This course aims to teach the basic syntax of Julia and its core features. I hig
 
 > This course can be followed for free. You will just lose the opportunity to receive a final certification.
 
+---
+
+<p align="center">
+    <img src="Assets/progress.png">
+</p>
+
 ----
 
 Here I will append all my notes that you can find in [Notes](Notes). The complete code for each week can be found in [JuliaFiles](JuliaFiles)
