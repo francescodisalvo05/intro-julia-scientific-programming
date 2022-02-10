@@ -14,6 +14,8 @@ You can find all the weekly notes under the [Notes](Notes) folder and the code u
     <img src="Assets/progress.png">
 </p>
 
+> I couldn't reach 100% because I wasn't allowed to submit the graded assignements (free version)
+
 ----
 
 #### Table of contents
