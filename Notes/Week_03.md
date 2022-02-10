@@ -23,15 +23,15 @@ The number of suscpetible people will increases as the number of infected people
 The loss rate for the infected is proportional to the number of susceptible people but we may remove a fraction of them (weighted with gamma)
 
 
-![formula](https://render.githubusercontent.com/render/math?math=\color{white}\large\I(t_{i\pm1})=I(t_i)+{\lambda}S(t_i)I(t_i)dt-\gammaI(t_i)dt)
+![formula](https://render.githubusercontent.com/render/math?math=\color{white}\large\I(t_{i\pm1})=I(t_i)+{\lambda}S(t_i)I(t_i)dt-{\gamma}I(t_i)dt)
 
-![formula](https://render.githubusercontent.com/render/math?math=\color{black}\large\I(t_{i\pm1})=I(t_i)+{\lambda}S(t_i)I(t_i)dt-\gammaI(t_i)dt)
+![formula](https://render.githubusercontent.com/render/math?math=\color{black}\large\I(t_{i\pm1})=I(t_i)+{\lambda}S(t_i)I(t_i)dt-{\gamma}I(t_i)dt)
 
 Finally, the number of "removed" people cannot have a loss term but only a gain one, weighted with gamma.
 
-![formula](https://render.githubusercontent.com/render/math?math=\color{white}\large\R(t_{i\pm1})=R(t_i)+\gammaI(t_i)dt)
+![formula](https://render.githubusercontent.com/render/math?math=\color{white}\large\R(t_{i\pm1})=R(t_i)+{\gamma}I(t_i)dt)
 
-![formula](https://render.githubusercontent.com/render/math?math=\color{black}\large\R(t_{i\pm1})=R(t_i)+\gammaI(t_i)dt)
+![formula](https://render.githubusercontent.com/render/math?math=\color{black}\large\R(t_{i\pm1})=R(t_i)+{\gamma}I(t_i)dt)
 
 Now we can model these equations through a julia function that takes the current values of S,I and R and will return its updated parameters.
 
