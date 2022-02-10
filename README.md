@@ -29,6 +29,10 @@ You can find all the weekly notes under the [Notes](Notes) folder and the code u
   - [Plots](#w2_plots)
 - [Week 03](#w3)
   - [SIR Model](#w3_sir)
+- [Week 04](#w4)
+  - Descriptive statistics
+  - Inferential statistics
+   
 ----
 
 <a name="w1" />
@@ -322,3 +326,13 @@ label  = ["Susceptibles" "Infecteds" "Removeds"]
 </p>
 
 > The code is available [here](../JuliaFiles/week_03_sir.jl).
+
+---
+
+<a name="w4" />
+
+## Week 04
+
+The last section of this course is devoted to the flavours of `descriptive` and `inferential` statistics, with an overview of some useful packages and functions.
+
+I did not report here my notes here, because they would be exactly equal to their notebooks. Therefore, I highly recommend to follow their material to know a bit more on the topic!
